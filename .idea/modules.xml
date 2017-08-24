@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/similarity-match/similarity-match.iml" filepath="$PROJECT_DIR$/similarity-match/similarity-match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/similarityMatch.iml" filepath="$PROJECT_DIR$/.idea/similarityMatch.iml" />
+    </modules>
+  </component>
+</project>
